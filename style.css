@@ -1,0 +1,37 @@
+background: url('your-image.jpg') no-repeat center center fixed;
+background-size: cover;
+color: #fff;
+font-family: Arial, sans-serif;
+h1 {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 3.0em;
+} 
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2em;
+}
+p {
+    text-align: center;
+    font-size: 1.2em;
+    margin: 20px auto;
+    width: 80%;
+}
+a {
+    color: #ff6347;
+    text-decoration: none;
+}   
+a:hover {
+    text-decoration: underline;
+}       
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.8em;
+    color: #ccc;
+}   
+/* File: style.css */
+/* --- a/file:///c%3A/Users/lenovo/Desktop/full%20stack%20web%20development/Travel%20agency%20page/style.css */
+/* +++ b/file:///c%3A/Users/lenovo/Desktop/full%20  stack%20web%20development/Travel%20agency%20page/style.css */   
+/* @@ -1,0 +1,24 @@ */
